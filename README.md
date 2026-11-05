@@ -1,4 +1,7 @@
-# Fractalsressources
-in the following files you can find code, blender projects that helped me to illustrate my Mandelbrot presentation !
-Be aware that to use the python files you may have to donwload libraries ( such as pygame )
-ENJOY !
+# Fractal Resources
+
+In the following files, you will find code and Blender projects that I used to illustrate my presentation on the Mandelbrot set!
+
+Please note that, to run the Python files, you may need to install additional libraries (such as Pygame).
+
+**ENJOY!**
